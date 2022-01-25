@@ -15,6 +15,6 @@
 ![](https://github.com/kseniashilova/VisualSystem/blob/main/pic/3_small_groups.jpg)    
   
    
- Коннектом разбит на 3 кластера (разбиение взято из данных [A visual motion detection circuit suggested by Drosophila connectomics](https://github.com/kseniashilova/SpikingNeuralNetwork/blob/main/A%20visual%20motion%20detection%20circuit%202.pdf)). Как можно увидеть, связи внутри нейронов фиолетового кластера полностью повторяют схему из статьи. Что касается голубого и зеленого кластеров, результат похож на схему из статьи за исключением нескольких неточностей (отсутствие нейронов Mi15, TmT5a)...  
+ Коннектом разбит на 3 кластера (разбиение взято из данных [A visual motion detection circuit suggested by Drosophila connectomics](https://github.com/kseniashilova/SpikingNeuralNetwork/blob/main/A%20visual%20motion%20detection%20circuit%202.pdf)). Как можно увидеть, связи внутри нейронов фиолетового и зеленого кластера почти полностью повторяют схему из статьи, основные показанные связи. Что касается голубого кластера, результат похож на схему из статьи за исключением нескольких неточностей (отсутствие некоторых нейронов, добавление некоторых нейронов).      
 Результат визуализации региона medulla по слоям (M1, M2, M3, M4, M5, M6, M8, M9, M10) по данным, представленным в [Virtual Fly Brain](https://www.virtualflybrain.org/) в [файле](https://github.com/kseniashilova/VisualSystem/blob/main/optic_VBF2.html)    
 ![](https://github.com/kseniashilova/VisualSystem/blob/main/pic/M1_M10_medulla.png) 
