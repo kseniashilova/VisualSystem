@@ -12,7 +12,7 @@
 ![](https://github.com/kseniashilova/VisualSystem/blob/main/pic/small_connectome.png)   
   
 Похожий коннектом можно построить с помощью данных из [Virtual Fly Brain](https://www.virtualflybrain.org/). Чтобы быть точнее, нужно добавить к типам клеток, которые мы выделили из файла нейронов региона medulla, фоторецепторные клетки R7, R8. Это клетки региона lamina, именно поэтому их нет в файле, но для точного воспроизведения пути, отвечающему за детектирование движения, эти клетки необходимы.   
-![](https://github.com/kseniashilova/VisualSystem/blob/main/pic/small_groups.png)    
+![](https://github.com/kseniashilova/VisualSystem/blob/main/pic/3_small_groups.jpg)    
   
    
  Коннектом разбит на 3 кластера (разбиение взято из данных [A visual motion detection circuit suggested by Drosophila connectomics](https://github.com/kseniashilova/SpikingNeuralNetwork/blob/main/A%20visual%20motion%20detection%20circuit%202.pdf)). Как можно увидеть, связи внутри нейронов фиолетового кластера полностью повторяют схему из статьи. Что касается голубого и зеленого кластеров, результат похож на схему из статьи за исключением нескольких неточностей (отсутствие нейронов Mi15, TmT5a)...  
